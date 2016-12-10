@@ -128,6 +128,16 @@
             "path": "../node_modules/aurelia-testing/dist/amd",
             "main": "aurelia-testing",
             "env": "dev"
+          },
+          {
+            "name": "chart.js",
+            "path": "../node_modules/chart.js/dist",
+            "main": "Chart.min"
+          },
+          {
+            "name": "aurelia-chart",
+            "path": "../node_modules/aurelia-chart/dist/amd",
+            "main": "index"
           }
         ]
       }
